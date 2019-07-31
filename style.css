@@ -1,5 +1,5 @@
 .banner {
-    background-image: url("../image/profile.jpg");
+    background-image: url("image/profile.jpg");
     background-size: cover;
     color: white;
     padding: 120px 0;
@@ -41,19 +41,19 @@ p {
 
 .Iraq {
   background-image:
-      url("../image/profile.jpg");
+      url("image/profile.jpg");
   background-color: transparent;
 }
 
 .Syria {
   background-image:
-      url("../image/syria.jpg");
+      url("image/syria.jpg");
   background-color: transparent;
 }
 
 .Vagar {
   background-image:
-      url("../image/Vagar.jpg");
+      url("image/Vagar.jpg");
   background-color: transparent;
 }
 
